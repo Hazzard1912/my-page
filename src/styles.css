@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Istok+Web&family=Lora&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fffaf9;
+  color: #192f64;
+  font-family: "Hind Madurai", sans-serif;
+}
+
+h1 {
+  font-family: "Istok Web", sans-serif;
+}
+
+h2,
+h3 {
+  font-family: "Lora", serif;
+}
